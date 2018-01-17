@@ -1,4 +1,5 @@
 # Test
 
+Wat is dit geen mooie file!
 
-Wat is dit een mooie file!
+We gaan een conflict maken. Kijken of hij dit kan oplossen
